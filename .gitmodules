@@ -1,0 +1,6 @@
+[submodule "veloxc-client"]
+	path = veloxc-client
+	url = https://github.com/KostasChili/veloxc-client.git
+[submodule "veloxc-server"]
+	path = veloxc-server
+	url = https://github.com/KostasChili/veloxc-server.git
